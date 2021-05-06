@@ -11,26 +11,14 @@ function divide() {
 
 }
 
-function add(a, b) {
+add(a, b) 
 
-}
+subtract(a, b) 
 
-function subtract(a, b) {
+multilpy(a, b)
 
-}
+divide(a, b) 
 
-function multilpy(a, b) {
+increment(n)
 
-}
-
-function divide(a, b) {
-
-}
-
-function increment(n) {
-
-}
-
-function decrement(n) {
-
-}
+decrement(n) 

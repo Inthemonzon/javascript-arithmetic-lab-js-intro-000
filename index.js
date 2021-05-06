@@ -11,19 +11,19 @@ function divide() {
 
 }
 
-function add(3 + 2) {
+function add(a + b) {
 
 }
 
-function subtract(10 - 8) {
+function subtract(a - b) {
 
 }
 
-function multilpy(5 * 5) {
+function multilpy(a * b) {
 
 }
 
-function divide(12 / 2) {
+function divide(a / b) {
 
 }
 

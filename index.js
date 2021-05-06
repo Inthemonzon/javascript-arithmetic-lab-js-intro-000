@@ -14,6 +14,10 @@ function divide(a, b) {
   return a / b
 }
 
-increment(n)
+function increment(n) {
+  return n++
+}
 
-decrement(n)
+function decrement(n) {
+  return n--
+}

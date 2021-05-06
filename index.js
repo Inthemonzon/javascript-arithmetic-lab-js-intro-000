@@ -11,7 +11,7 @@ function divide() {
 
 }
 
-add(5 + 5)
+add(5, 5)
 
 subtract(a, b)
 

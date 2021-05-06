@@ -1,4 +1,12 @@
-add()
-subtract()
-multiply()
-divide()
+function add() {
+  
+}
+function subtract() {
+  
+}
+function multiply() {
+  
+}
+function divide() {
+  
+}

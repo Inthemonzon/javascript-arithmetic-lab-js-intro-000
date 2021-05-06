@@ -11,14 +11,14 @@ function divide() {
 
 }
 
-add(a, b) 
+add(a, b)
 
-subtract(a, b) 
+subtract(a, b)
 
 multilpy(a, b)
 
-divide(a, b) 
+divide(a, b)
 
 increment(n)
 
-decrement(n) 
+decrement(n)
